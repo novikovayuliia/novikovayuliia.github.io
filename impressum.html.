@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Impressum – Novikova Yuliia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 760px;
+      margin: 50px auto;
+      padding: 0 22px;
+      color: #333;
+      line-height: 1.7;
+      background: #fff;
+    }
+    h1, h2 {
+      font-weight: 500;
+    }
+    h1 {
+      margin-bottom: 35px;
+    }
+    h2 {
+      margin-top: 30px;
+    }
+    a {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Impressum</h1>
+
+  <h2>Angaben gemäß § 5 DDG</h2>
+
+  <p>
+    <strong>Novikova Yuliia</strong><br>
+    Einzelunternehmerin
+  </p>
+
+  <p>
+    <strong>Geschäftsanschrift:</strong><br>
+    Bahnhofstraße 6<br>
+    35066 Frankenberg (Eder)<br>
+    Deutschland
+  </p>
+
+  <p>
+    <strong>Kontakt:</strong><br>
+    Telefon: +49 175 8819163<br>
+    E-Mail:
+    <a href="mailto:Yurchuk.yulya94@gmail.com">
+      Yurchuk.yulya94@gmail.com
+    </a>
+  </p>
+
+  <h2>Online-Präsenzen und soziale Netzwerke</h2>
+
+  <p>
+    <strong>Fotografie:</strong><br>
+    <a href="https://www.instagram.com/novikovajuliya.ph/" target="_blank" rel="noopener noreferrer">
+      Instagram – @novikovajuliya.ph
+    </a>
+  </p>
+
+  <p>
+    <strong>Handmade und persönliche Inhalte:</strong><br>
+    <a href="https://www.instagram.com/by.novikovajuliya_/" target="_blank" rel="noopener noreferrer">
+      Instagram – @by.novikovajuliya_
+    </a>
+  </p>
+
+  <p>
+    <strong>Fotostudio:</strong><br>
+    <a href="https://www.instagram.com/n.j.fotostudio/" target="_blank" rel="noopener noreferrer">
+      Instagram – @n.j.fotostudio
+    </a>
+  </p>
+
+  <p>
+    <strong>Threads:</strong><br>
+    <a href="https://www.threads.com/@novikovajuliya.ph" target="_blank" rel="noopener noreferrer">
+      @novikovajuliya.ph
+    </a>
+  </p>
+
+  <p>
+    <strong>Facebook:</strong><br>
+    <a href="https://www.facebook.com/share/1FveaXwpcV/" target="_blank" rel="noopener noreferrer">
+      Facebook-Profil
+    </a>
+  </p>
+
+</body>
+</html>
